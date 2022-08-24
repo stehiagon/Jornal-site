@@ -1,0 +1,77 @@
+.navegação ol li{
+    list-style-type: none;
+    display: inline;
+    padding-left: 100px ;
+    padding-right: 100px;
+    font-size: 35px;
+    color: white;
+    
+}
+
+.cabecalho{
+    background-color: rgb(41, 3, 77)
+}
+
+.foto1{
+    display: flex;
+}
+
+.titulo{
+    font-size: 40px;
+    color: white;
+    background-color: rgb(41, 3, 77)
+}
+
+
+.foto2{
+    display: flex;
+}
+
+.imagem2{
+    background-repeat: no-repeat;
+}
+
+.foto3{
+    display: flex;
+}
+
+.paragrafo1{
+    font-size: 30px;
+    padding-left: 40px;
+}
+
+.p1{
+    padding-left: 40px;
+}
+
+.paragrafo2{
+    font-size: 30px;
+    padding-left: 40px;
+}
+
+.p2{
+    padding-left: 40px;
+}
+
+.paragrafo3{
+    font-size: 30px;
+    padding-left: 40px;
+}
+
+.p3{
+    padding-left: 40px;
+}
+
+.ios{
+    background-position: center;
+}
+
+.rodape{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    background-position: center;
+    text-align: center;
+    align-items: center;
+}
